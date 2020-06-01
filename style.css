@@ -1,0 +1,132 @@
+body{
+	color: black;
+	font-size: 14px;
+	margin: 0;
+}
+
+.header{
+	background-color: #B8B8B8;
+	margin: 0 auto;
+	border: 1px solid #666666;
+	width: 700px;
+	height: 140px;
+	position: relative;
+}
+
+.logo{
+	position: absolute;
+	top: 75px;
+	left: 300px;
+}
+
+.buttom{
+	background-color: white;
+	display: inline-block;
+	margin: 10px 10px 10px 50px;
+	width: 100px;
+	height: 50px;
+}
+
+
+.content{
+	color: white;
+	margin: 0 auto;
+	width: 700px;
+	height: 500px;
+	border: 1px solid black;
+	background: #757783;
+	background-size: 100%;
+	text-align: justify;
+}
+
+.content span{
+	padding: 10px;
+}
+.content div{
+	margin: 10px;
+}
+/*.content div{ 
+	background: white;
+	border-radius: 5px;
+	border: 2px solid black;
+	
+	position: absolute;
+	top: 20px;
+	right:20px;
+
+	margin: 7px 0 7px 7px;
+
+	width: 200px;
+	opacity: 0.7;
+	height: 230px;
+	text-align: justify;
+} */
+.content2{
+	margin: 0 auto;
+	width: 700px;
+	height: 300px;
+	border: 1px solid black;
+	background: url(img/rs6profile.png);
+	background-size: 100%;
+	position: relative;
+}
+
+.block{
+	background-color: white;
+	display: inline-block;
+	width: 200px;
+	height: 230px;
+	border-radius: 10px;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	text-align: justify;
+}
+.block1{
+	background-color: white;
+	display: inline-block;
+	width: 200px;
+	height: 230px;
+	border-radius: 10px;
+	position: absolute;
+	top: 30px;
+	left: 250px;
+	text-align: justify;
+}
+.block2{
+	background-color: white;
+	display: inline-block;
+	width: 200px;
+	height: 230px;
+	border-radius: 10px;
+	position: absolute;
+	top: 30px;
+	left: 470px;
+	text-align: justify;
+}
+
+.block button{
+	color: black;
+	margin: 60px 0 0 70px;
+
+}
+
+.block1 button{
+	color: black;
+	margin: 45px 0 0 70px;
+}
+
+.block2 button{
+	color: black;
+	margin: -5px 0 0 70px;
+}
+
+.rightimg{
+	float: right;
+	margin: 7px 0 7px 7px;
+}
+
+
+
+
+
